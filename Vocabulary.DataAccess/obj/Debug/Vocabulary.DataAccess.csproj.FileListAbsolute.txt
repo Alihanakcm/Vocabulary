@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\Vocabulary.DataAccess.dll.config
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\Vocabulary.DataAccess.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\Vocabulary.DataAccess.pdb
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\Vocabulary.Entity.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\Vocabulary.Entity.pdb
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.csproj.CopyComplete
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.pdb
