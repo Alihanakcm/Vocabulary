@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\Vocabulary\Vocabulary.Entity\bin\Debug\Vocabulary.Entity.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.Entity\bin\Debug\Vocabulary.Entity.pdb
+D:\Visual Studio Projects\Vocabulary\Vocabulary.Entity\obj\Debug\Vocabulary.Entity.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Vocabulary\Vocabulary.Entity\obj\Debug\Vocabulary.Entity.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Vocabulary\Vocabulary.Entity\obj\Debug\Vocabulary.Entity.dll
+D:\Visual Studio Projects\Vocabulary\Vocabulary.Entity\obj\Debug\Vocabulary.Entity.pdb
