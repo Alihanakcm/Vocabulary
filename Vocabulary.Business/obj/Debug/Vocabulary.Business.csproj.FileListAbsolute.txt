@@ -16,7 +16,6 @@ D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\bin\Debug\EntityFramewo
 D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\bin\Debug\FluentValidation.xml
 D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\bin\Debug\Ninject.xml
 D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\obj\Debug\Vocabulary.Business.csprojAssemblyReference.cache
-D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\obj\Debug\Vocabulary.Business.csproj.CoreCompileInputs.cache
 D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\obj\Debug\Vocabulary.Business.csproj.CopyComplete
 D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\obj\Debug\Vocabulary.Business.dll
 D:\Visual Studio Projects\Vocabulary\Vocabulary.Business\obj\Debug\Vocabulary.Business.pdb

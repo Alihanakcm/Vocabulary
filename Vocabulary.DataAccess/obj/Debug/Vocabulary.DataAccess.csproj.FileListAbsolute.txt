@@ -8,7 +8,6 @@ D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\Vocabulary.
 D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\EntityFramework.xml
 D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.csprojAssemblyReference.cache
-D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.csproj.CoreCompileInputs.cache
 D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.csproj.CopyComplete
 D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.dll
 D:\Visual Studio Projects\Vocabulary\Vocabulary.DataAccess\obj\Debug\Vocabulary.DataAccess.pdb
